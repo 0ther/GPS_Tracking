@@ -1,0 +1,3 @@
+﻿  GPS_Server.cpp
+d:\валера\проекты vs к практике\gps_server 9.07\gps_server\servsocket.h(154): warning C4101: msg_size: неиспользованная локальная переменная
+  GPS_Server.vcxproj -> D:\Валера\Проекты VS к практике\GPS_Server 9.07\Debug\GPS_Server.exe
