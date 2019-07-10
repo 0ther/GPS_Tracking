@@ -1,0 +1,6 @@
+id=01 login=mentor pass=555555
+id=02 login=valera pass=404040
+id=03 login=azazaz pass=121212
+id=04 login=runner pass=909090
+id=05 login=victor pass=333333
+id=06 login=zigbee pass=790790

@@ -1,0 +1,5 @@
+﻿  GPS_Tracking.cpp
+d:\валера\проекты vs к практике\gps_tracking 9.07\gps_tracking\movingman.h(19): warning C4305: +=: усечение из "double" в "float"
+d:\валера\проекты vs к практике\gps_tracking 9.07\gps_tracking\movingman.h(20): warning C4305: +=: усечение из "double" в "float"
+d:\валера\проекты vs к практике\gps_tracking 9.07\gps_tracking\nmea_emulator.h(12): warning C4305: аргумент: усечение из "double" в "float"
+  GPS_Tracking.vcxproj -> D:\Валера\Проекты VS к практике\GPS_Tracking 9.07\Debug\GPS_Tracking.exe
