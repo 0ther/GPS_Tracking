@@ -1,0 +1,3 @@
+﻿  NMEA_Emulator.cpp
+d:\валера\проекты vs к практике\gps_tracking 10.07\gps_tracking\nmea_emulator.cpp(6): warning C4305: аргумент: усечение из "double" в "float"
+  GPS_Tracking.vcxproj -> D:\Валера\Проекты VS к практике\GPS_Tracking 10.07\Debug\GPS_Tracking.exe
